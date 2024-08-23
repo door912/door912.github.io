@@ -5,6 +5,8 @@ body{
     color: rgb(194, 215, 233);
     text-align: center;
     padding-top: 45vh;
+}
 
+*{
     font-family: "JetBrains Mono", monospace;
 }
